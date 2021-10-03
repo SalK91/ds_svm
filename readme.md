@@ -1,6 +1,6 @@
 # Support Vector Machines
 
-## Adapted from a tutorial which itself is based on an excerpt from the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas. The content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).*
+## Adapted from the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas. The content is available [on GitHub](https://github.com/jakevdp/PythonDataScienceHandbook).*
 
 <img align="left" style="padding-right:10px;" src="https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/figures/PDSH-cover-small.png?raw=1">
 
